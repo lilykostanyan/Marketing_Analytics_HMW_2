@@ -1,6 +1,6 @@
 # Marketing Analytics Second Homework 
 
-## Reproducibility and Seed Management
+## Suggestion: Reproducibility and Seed Management
 
 Reproducibility is critical in experiments like A/B testing because it allows you to re-run the experiments and get the same results. This is especially important for debugging, verification, and ensuring that the results are consistent over time. By combining **global seed management** with a **metadata file**, we can create robust, reproducible, and well-documented experiments.
 
